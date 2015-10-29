@@ -287,7 +287,7 @@
                     <section>
                         <a class="fg-black" href="student.php"><paper-item>View Everything</paper-item></a>
                         <a class="fg-black" href="?view=teacher"><paper-item><i class="icon-filter on-left"></i>Teacher Posts</paper-item></a>
-                        <a class="fg-black" href="pm.php"><paper-item><i class="icon-mail fg-black on-left"></i>Private Messages</paper-item></a> 
+                        <a class="fg-black" href="pm.php"><paper-item><i class="icon-mail fg-black on-left"></i>Messages</paper-item></a> 
                     </section>
                     <?php if ($showclassstuff) { ?>
                     <section>
